@@ -1,0 +1,21 @@
+{
+  "name": "noman_calculator",
+  "version": "1.0.1",
+  "description": "A simple calculator",
+  "main": "calculator.js",
+  "bin": "calculator.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "type": "module",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "author":"Noman Islam"
+}
